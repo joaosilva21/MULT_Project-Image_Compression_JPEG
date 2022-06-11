@@ -37,9 +37,9 @@ You have one way to run this project:
         ```
 
 ## Notes important to read:
-   - If you want to change the image to do compression or type of downsampling change the variable *file* and *sampling* respectively in main
-   - If you want to change the directory of the images change the variable *IMAGES_PATH* on top of the code
-   - If you want to see the plots and prints of each step change the respectively variables to true on main
+   - If you want to change the image to do compression or type of downsampling change the variable *file* and *sampling* respectively in main.
+   - If you want to change the directory of the images change the variable *IMAGES_PATH* on top of the code.
+   - If you want to see the plots and prints of each step change the respectively variables to true on main.
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
